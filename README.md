@@ -1,2 +1,2 @@
-# TMSBrainApp
+# Logo
 TMSBrainApp logo
